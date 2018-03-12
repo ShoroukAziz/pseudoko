@@ -1,4 +1,4 @@
-# _P_seudoko
+# _P_ seudoko
 a 9x9 sudoku generator and solver
 ### The solver:
 solves easy to hard Sudoku (puzzles that requires no guessing)
