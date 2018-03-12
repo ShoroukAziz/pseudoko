@@ -23,6 +23,8 @@ solve "board name"
 ```
 solve hard
 ```
+![screenshot1](https://user-images.githubusercontent.com/27028706/37305466-326bf524-263d-11e8-8c17-c9495573040a.PNG)
+
 - to solve anyboard
 solve [[board row]]
 ```
@@ -39,6 +41,7 @@ to generate a board
 ```
 play
 ```
+![screenshot2](https://user-images.githubusercontent.com/27028706/37305465-324132f8-263d-11e8-9cd7-8c4d7ffca112.PNG)
 
 ## Sample boards 
 list of boards ready to test:
