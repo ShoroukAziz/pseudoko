@@ -4,13 +4,13 @@ a 9x9 sudoku generator and solver
 solves easy to hard Sudoku (puzzles that requires no guessing)
 ### The generator:
 Generates boards that can be solved by the solver.
-•	The generator is limited to a certain number of board as it doesn’t use backtracking to generate the boards but shuffling a systematically generated board.
+-	The generator is limited to a certain number of board as it doesn’t use backtracking to generate the boards but shuffling a systematically generated board.
 
 ## Files
-•	Solver.hs : the solver script
-•	gen.hs    : the generator script
-•	Helper.hs : contains some helper functions used in the solver and generator.
-•	Boards.hs : some sample boards to test
+-	Solver.hs : the solver script
+-	gen.hs    : the generator script
+-	Helper.hs : contains some helper functions used in the solver and generator.
+-	Boards.hs : some sample boards to test
 
 ## Use
 ### Solver
