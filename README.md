@@ -3,7 +3,7 @@ a 9x9 sudoku generator and solver
 ### The solver:
 solves easy to hard Sudoku (puzzles that requires no guessing)
 ### The generator:
-Generates boards that can be solved by the solver (no backtracking is used).
+Generates boards that can be solved by the solver.
 •	The generator is limited to a certain number of board as it doesn’t use backtracking to generate the boards but shuffling a systematically generated board.
 
 ## Files
