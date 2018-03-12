@@ -21,8 +21,11 @@ Generates boards that can be solved by the solver.
 - to solve a sample board 
 solve "board name"
 ```
-solve easy
+solve hard
 ```
+![Screenshot](https://drive.google.com/file/d/1PA7NYPrDmFX-WIP7ziC1mr56j4l-PEq4/view?usp=sharing)
+
+
 - to solve anyboard
 solve [[board row]]
 ```
